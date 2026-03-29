@@ -1,0 +1,1 @@
+# Project Manager (PM) bertanggung jawab memimpin, merencanakan, melaksanakan, dan mengawasi seluruh siklus proyek agar selesai tepat waktu, dan mencapai tujuan kualitas yang ditetapkan. Tugas utamanya meliputi manajemen ruang lingkup, alokasi sumber daya, manajemen risiko, serta komunikasi antara tim dan stakeholder.
