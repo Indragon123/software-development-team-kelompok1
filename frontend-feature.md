@@ -9,7 +9,7 @@ Sebagai frontend Developer, saya bertanggung jawab yang berhubungan langsung den
 ## Fitur Backend
 - Membuat tampilan (UI – User Interface)
 - Mengatur Interaksi (UX – User Experience)
-- Menghubungkan ke Backend (API)
+- Menghubungkan ke Backend (API) 
 
 ## Tujuan
 Membuat tampilan aplikasi yang menarik dan mudah digunakan.
